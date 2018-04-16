@@ -1,0 +1,17 @@
+﻿{
+  "name": "Google Translate Automatic wrap",    //扩展程序的名字
+  "manifest_version": 2,                     
+  "version": "1.0",                             //扩展程序的版本号
+  "description": "Google 翻译自动换行",      
+  "browser_action": {
+    "default_icon": "icon.png"      //图标
+  },
+
+  "content_scripts": [
+      {
+        "matches": ["https://translate.google.cn/*"],   //匹配的域名地址
+        "js": ["myscript.js"]                           //执行的js文件
+      }
+    ]
+
+}
