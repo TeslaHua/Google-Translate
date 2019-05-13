@@ -11,15 +11,15 @@
 
 2.开启右侧的**开发者模式**，然后点击**加载以解压的扩展程序**，选中**Google Translate**文件夹，如下图所示：
 
-![Developer mode](http://oyqo0q1a2.bkt.clouddn.com/Developer%20mode.png)
+![Developer](./img/Developer.png)
 
 
 3.然后就会在扩展程序的页面下发现谷歌翻译的扩展小程序已经被加载进来了，如下图所示，然后关闭开发者模式即可。
 
-![TranslateOK](http://oyqo0q1a2.bkt.clouddn.com/TranslateOK.png)
+![Translate](./img/Translate.png)
 
 4.之后打开自己谷歌翻译的网页 https://translate.google.cn 输入文本，默认情况下不会自动换行，若需要换行，需要手动按一下键盘上的**F5**刷新一下，就会看到输入框中的文本已经换行成功。
 
 **注意：由于谷歌禁止了第三方的扩展程序插件，需要交付5美元才能把自己的扩展程序发布到Google的商店中，不过不交付就会在每次重新启动Google浏览器的时候出现下方的提示，点击取消就可以正常使用了。尝试了网上的几种解决办法，都没有成功，似乎和Chrome的版本也有关系。**
 
-![Translate Tip](http://oyqo0q1a2.bkt.clouddn.com/Translate%20Tip.png)
+![Tips](./img/Tips.png)
